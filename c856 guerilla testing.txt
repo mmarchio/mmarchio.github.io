@@ -1,0 +1,4 @@
+name    | comment                                               | actionable item
+heather:| smaller links on the left, more area for information. | reduced button sizes
+ryliegh:| no direct way to get to events or blogs.              | added footer links
+payton: | hard to tell which page you are on.                   | added active link states

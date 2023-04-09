@@ -1,0 +1,36 @@
+usability tasks
+
+1. 
+Goal: Find out how much a flight from Tokyo, Japan to Taniti costs.
+Steps:
+    1. click travel on left navigation menu or footer navigation menu.
+    2. locate the price of a flight from Tokyo, Japan in the cost column.
+Assumptions: none    
+
+2. 
+Goal: Find out how long a vacation could be in Taniti if you take a cruise to Taniti.
+Steps:
+    1. click travel on left navigation menu or footer navigation menu.
+    2. locate the days in port column.
+Assumptions: none
+
+3. 
+Goal: What is the phone number of the Taniti Taco Truck?
+Steps:
+    1. click dining on left navigation menu or footer navigation menu.
+    2. locate the phone field for the Taniti Taco Truck entry.
+Assumptions: none
+
+4. 
+Goal: How many hotels does Taniti have?
+Steps:
+    1. click lodging on left navigation menu or footer navigation menu.
+    2. count how many hotels are listed.
+Assumptions: none
+
+5. 
+Goal: What is The Taniti Farmers Market's phone number?
+Steps:
+    1. click shopping on left navigation menu or footer navigation menu.
+    2. locate the phone field for the Taniti Farmers Market.
+Assumptions: none

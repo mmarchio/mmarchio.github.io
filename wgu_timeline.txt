@@ -1,0 +1,8 @@
+Timeline:
+ - pre development
+ -- gather business requirements: 1 week
+ -- competitor analysis: 1 week
+ -- contextual analysis: 1 week
+ -- task models: 1 day
+ -- personas: 1 day
+ - wireframe: 1 week
